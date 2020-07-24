@@ -12,3 +12,4 @@ makedocs(
         "Index des fonctions" => "fct_index.md" 
     ]
     )
+deploydocs(repo = "github.com/mathn7/Toto.git")
