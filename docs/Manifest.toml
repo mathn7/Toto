@@ -390,14 +390,6 @@ version = "1.0.4"
 deps = ["Distributed", "InteractiveUtils", "Logging", "Random"]
 uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-[[Toto]]
-deps = ["LinearAlgebra", "Markdown", "Test"]
-git-tree-sha1 = "39cab8aa0268ed93e2369156313fe1bb9a88a399"
-repo-rev = "master"
-repo-url = "https://github.com/mathn7/Toto.git"
-uuid = "49565f54-1e62-4cb8-a298-66e17e7639a6"
-version = "0.1.0"
-
 [[UUIDs]]
 deps = ["Random", "SHA"]
 uuid = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
